@@ -1,5 +1,7 @@
 # Viva Connections Extensibility
 
+![Viva Connections logo](./assets/viva-connections.png)
+
 **Welcome to the private Beta for Viva Connections extensibility preview!**
 
 Please start with [Lab 0](https://github.com/microsoft/Viva-Connections-Extensibility-Private-Beta/wiki/Lab-0%3A-Prerequisites)
