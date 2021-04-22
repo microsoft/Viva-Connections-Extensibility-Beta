@@ -43,6 +43,5 @@ No. Work in here is NOT under NDA and you can share your experiences inside of y
 **Will new versions of the beta bits be backward compatible?**
 That's the intention, but if we need to do any breaking changes, we'll share the details in advance.
 
-
 **I need more of colleagues to get access to the bits - how to proceed?**
-As them to fill in the form at https://aka.ms/viva/connections/preview/register. We will be following up on the submissions typically within 48 hours. They can use the same tenant which you are using or ask features to get flighted on a new one.
+Ask them to fill in the form at https://aka.ms/viva/connections/preview/register. We will be following up on the submissions typically within 48 hours. They can use the same tenant which you are using or ask features to get flighted on a new one.
