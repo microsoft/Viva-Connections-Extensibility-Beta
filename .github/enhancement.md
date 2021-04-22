@@ -1,3 +1,12 @@
+---
+name: "\U0001F4A1 Suggestion"
+about: Suggest an enhancement to make one of our web part samples even better
+title: '[Suggestion Title]'
+labels: type:enhancement
+assignees: ''
+
+---
+
 Thank you for reporting an issue or suggesting an enhancement. We appreciate your feedback - to help the team to understand your needs, please complete the below template to ensure we have the necessary details to assist you.
 
 #### Versions
