@@ -1,8 +1,5 @@
 Thank you for reporting an issue or suggesting an enhancement. We appreciate your feedback - to help the team to understand your needs, please complete the below template to ensure we have the necessary details to assist you.
 
-#### Category
-[x] Issue
-
 #### Versions
 [    ]  Operating System
 [    ]  Node version
