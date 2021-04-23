@@ -23,7 +23,7 @@ discussion.
 
 ### Discussions
 
-Please use the Microsoft Team where you were invited for the discussions - this will ensure that hte Microsoft employees can more efficiently be informed on your question, which ensures faster response times.
+Please use the Microsoft Team where you were invited for the discussions - this will ensure that the Microsoft employees can more efficiently be informed on your question, which ensures faster response times.
 
 You can access the private invitation Team from [here](https://teams.microsoft.com/l/channel/19%3ae7d7244bc29c4b39905d68e900212524%40thread.tacv2/General?groupId=18f1b199-63c3-4547-abe1-04f46ee8b40a&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47).
 
