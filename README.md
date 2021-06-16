@@ -4,7 +4,7 @@
 
 **Welcome to the private Beta for Viva Connections extensibility preview!**
 
-Please start with [Lab 0](https://github.com/microsoft/Viva-Connections-Extensibility-Private-Beta/wiki)
+Please start with [Lab 0](https://github.com/microsoft/Viva-Connections-Extensibility-Private-Beta/wiki/Lab-0-%E2%80%90-Prerequisites)
 in the Wiki to get your environment prepared and accessing the Beta packages.
 
 ### Wiki
