@@ -5,7 +5,7 @@
 **Welcome to the public Beta for Viva Connections extensibility!**
 
 * [Announcement blog post](#)
-* [SharePoint Framework 1.13 releaase notes](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/release-1.13)
+* [SharePoint Framework 1.13 release notes](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/release-1.13)
 * [Documentation](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/viva/overview-viva-connections)
 * [Tutorial](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/viva/get-started/build-first-sharepoint-adaptive-card-extension)
 * [Issue reporting](https://github.com/microsoft/Viva-Connections-Extensibility-Beta/issues)
