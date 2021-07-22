@@ -21,7 +21,7 @@ discussion.
 ### Frequently Asked Questions
 
 **What do I need to do to get access on the preview bits?**
-You will need to install SharePoint Framework 1.13 preview release. See more from the 1.13 beta releaase notes.
+You will need to install SharePoint Framework 1.13 preview release. See more from the [1.13 beta release notes](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/release-1.13).
 
 **What are the objectives of the preview?**
 Enable you to start planning and building scenarios with the upcoming features and collecting feedback for Microsoft on the experience. We release the preview version to ensure higher quality release with the General Availability.
