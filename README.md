@@ -3,6 +3,7 @@
 ![Viva Connections logo](./assets/viva-connections.png)
 
 **Thank you!**
+
 With the release of SPFx 1.13.0, the public beta is now closed. A huge thank you to everyone who participated over the past few months.
 
 **Welcome to the public Beta for Viva Connections extensibility!**
